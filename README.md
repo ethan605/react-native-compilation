@@ -3,7 +3,9 @@ Compilation of React Native resources, tools, 3rd-party components which are min
 
 ## Modern Javascript
 
-* [Learn ES6 (ECMAScript 2015)][learn-es6]
+* [Learn ES6 (ECMAScript 2015) on Egghead][learn-es6-egghead]
+* [Javascript ES6: Learn important features in a few minutes][learn-es6-minutes]
+* [ES6 Console][es6-console]
 
 ## React Native core
 
@@ -42,7 +44,10 @@ Compilation of React Native resources, tools, 3rd-party components which are min
 * [Sublime Text Keymap][vscode-sublime-keybindings]
 
 
-[learn-es6]: https://egghead.io/courses/learn-es6-ecmascript-2015
+[learn-es6-egghead]: https://egghead.io/courses/learn-es6-ecmascript-2015
+[learn-es6-minutes]: https://www.frontendjournal.com/javascript-es6-learn-important-features-in-a-few-minutes/
+[es6-console]: https://es6console.com/
+
 [learn-flux-codecademy]: https://www.youtube.com/watch?v=PvjNglsyOHs&index=9&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
 [learn-redux-codecademy]: https://www.youtube.com/watch?v=1w-oQ-i1XB8&index=15&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
 [learn-redux-author]: https://egghead.io/courses/getting-started-with-redux
