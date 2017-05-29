@@ -3,12 +3,25 @@ Compilation of React Native resources, tools, 3rd-party components which are min
 
 ## Modern Javascript
 
+* [Learn ES6 (ECMAScript 2015)][learn-es6]
+
 ## React Native core
+
+### Unidirectional Data Flow
+
+* [Flux on Codecademy][learn-flux-codecademy]
+* [Redux on Codecademy][learn-redux-codecademy]
+* [Redux by its author][learn-redux-author]
 
 ### Navigation
 
 * [`react-navigation`][react-navigation] (former [`ex-navigation`][ex-navigation])
-* [A series about transitions][transitions-tutorial] on `react-navigation` & [Shared element transition tutorial][shared-element].
+* [A series about transitions][transitions-tutorial] on `react-navigation` & [Shared element transition tutorial][shared-element]
+
+### Misc
+
+* [ESLint][eslint-getting-started]
+* [Airbnb Javascript Style Guide][airbnb-js-style-guide] (with `.eslintrc` [gist][airbnb-eslint-gist])
 
 ## Tools
 
@@ -28,9 +41,19 @@ Compilation of React Native resources, tools, 3rd-party components which are min
 * [Sort lines][vscode-sort-lines]
 * [Sublime Text Keymap][vscode-sublime-keybindings]
 
+
+[learn-es6]: https://egghead.io/courses/learn-es6-ecmascript-2015
+[learn-flux-codecademy]: https://www.youtube.com/watch?v=PvjNglsyOHs&index=9&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
+[learn-redux-codecademy]: https://www.youtube.com/watch?v=1w-oQ-i1XB8&index=15&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
+[learn-redux-author]: https://egghead.io/courses/getting-started-with-redux
+
 [react-native]: https://facebook.github.io/react-native/
 [react-navigation]: https://reactnavigation.org/
 [ex-navigation]: https://github.com/expo/ex-navigation
+
+[eslint-getting-started]: http://eslint.org/docs/user-guide/getting-started
+[airbnb-js-style-guide]: https://github.com/airbnb/javascript
+[airbnb-eslint-gist]: https://gist.github.com/ethan605/4097d5e633397d14ad51b2e7c9810780
 
 [transitions-tutorial]: http://www.reactnativediary.com/2016/12/20/navigation-experimental-custom-transition-1.html
 [shared-element]: http://www.reactnativediary.com/2017/01/23/react-navigation-shared-element-transition-1.html
