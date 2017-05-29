@@ -43,6 +43,12 @@ Compilation of React Native resources, tools, 3rd-party components which are min
 * [Sort lines][vscode-sort-lines]
 * [Sublime Text Keymap][vscode-sublime-keybindings]
 
+## Others
+
+* [Try Git][try-git]
+* [Learn Git Branching][learn-git-branching]
+* [Git Pull Request][git-pull-request]
+
 
 [learn-es6-egghead]: https://egghead.io/courses/learn-es6-ecmascript-2015
 [learn-es6-minutes]: https://www.frontendjournal.com/javascript-es6-learn-important-features-in-a-few-minutes/
@@ -76,3 +82,7 @@ Compilation of React Native resources, tools, 3rd-party components which are min
 [vscode-sort-json]: https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json
 [vscode-sort-lines]: https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines
 [vscode-sublime-keybindings]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings
+
+[try-git]: https://try.github.io/levels/1/challenges/1
+[learn-git-branching]: http://learngitbranching.js.org/
+[git-pull-request]: https://help.github.com/articles/about-pull-requests/
