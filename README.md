@@ -23,7 +23,7 @@ Compilation of React Native resources, tools, 3rd-party components which are min
 ### Misc
 
 * [ESLint][eslint-getting-started]
-* [Airbnb Javascript Style Guide][airbnb-js-style-guide] (with `.eslintrc` [gist][airbnb-eslint-gist])
+* [Airbnb Javascript Style Guide][airbnb-js-style-guide] (with preset [`.eslintrc`][airbnb-eslint-gist])
 
 ## Tools
 
